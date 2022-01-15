@@ -1,0 +1,3 @@
+[submodule "IMOBE_PROJECT"]
+	path = IMOBE_PROJECT
+	url = git@github.com:NicolasTito/IMOBE_PROJECT.git
